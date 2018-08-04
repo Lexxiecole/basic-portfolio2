@@ -1,0 +1,53 @@
+<style>
+        .banner {
+            text-align: right;
+            font-family: 'Josefin Sans', sans-serif;
+            font-size: 16px;
+            background: white;
+
+            border-style: solid;
+            border-color: #003663;
+            border: 5px;
+
+        }
+
+
+        .header {
+            font-weight: normal;
+            font-family: 'Lobster';
+            font-size: 40px;
+            text-align: center;
+            color: #003663;
+            Width: 400px;
+            height: 75px;
+            background: white;
+
+            border: 5px;
+            border-style: solid;
+            border-color: #003663;
+        }
+
+        .text {
+            Font-family: 'EB Garamond';
+            Color: #003663;
+        }
+
+        .image {
+            display: ßblock;
+            height: 40%;
+            width: 40%;
+
+            padding:10px;
+            margin:10px;
+        }
+
+        .background {
+            background-color: gray;
+            margin: 20px;
+            padding:20px;
+            border-style: solid;
+            border-color: #003663;
+            border-width: 5px;
+        }
+
+    </style>
